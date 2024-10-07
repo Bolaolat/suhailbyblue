@@ -7,17 +7,17 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254742491666']
-global.ownMain = '254742491666'
-global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
+global.owner = ['2347041039367']
+global.ownMain = '2347041039367'
+global.NamaOwner = 'BLUE DEMON' //
 global.sessionName = 'session'
 global.connect = true // 
-global.namabot = '𝙎𝙋𝙄𝘿𝙀𝙍 - 𝙑7' //
-global.author = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
-global.packname = 'spider-v7' //
-global.url1 = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e' //
-global.url2 = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e' //
-global.linkgc = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
+global.namabot = 'BLUE DEMON' //
+global.author = 'BLUE DEMON' //
+global.packname = 'BLUE DEMON' //
+global.url1 = '' //
+global.url2 = '' //
+global.linkgc = ''
 global.delayjpm = 3500
 //Panel
 global.domain = 'https://guru.sellerpanell.me' // your domian
